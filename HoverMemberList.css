@@ -10,7 +10,7 @@
 /* GROUP HEADER */
 .membersGroup-v9BXpm {
     opacity: 0;
-    transition: all 500ms;
+    transition: all 100ms;
 }
 
 .membersWrap-2h-GB4:hover .membersGroup-v9BXpm {
